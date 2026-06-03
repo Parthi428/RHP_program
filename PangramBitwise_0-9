@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PangramBitwise_0=9 {
+public class PangramBitwise_0-9 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
